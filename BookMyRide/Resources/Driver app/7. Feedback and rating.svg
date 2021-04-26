@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="2280" viewBox="0 0 1080 2280">
+  <defs>
+    <clipPath id="clip-_7._Feedback_and_rating">
+      <rect width="1080" height="2280"/>
+    </clipPath>
+  </defs>
+  <g id="_7._Feedback_and_rating" data-name="7. Feedback and rating" clip-path="url(#clip-_7._Feedback_and_rating)">
+    <rect width="1080" height="2280" fill="#fff"/>
+    <g id="header">
+      <g id="back" transform="translate(36 2060)">
+        <g id="next" transform="translate(13.765 -1997)">
+          <path id="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+          <path id="left-arrow-2" data-name="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+        </g>
+      </g>
+      <text id="Feedback_and_rating" data-name="Feedback and rating" transform="translate(543 109)" fill="#212e3e" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-234.447" y="0">Feedback and rating</tspan></text>
+    </g>
+    <g id="top_box" data-name="top box" transform="translate(0 -121)">
+      <rect id="Rectangle_391" data-name="Rectangle 391" width="993" height="382" rx="20" transform="translate(44 413)" fill="#eae8ec"/>
+    </g>
+    <text id="How_was_your_ride_with_ManojManikantan_" data-name="How was your ride with ManojManikantan?" transform="translate(62 243)" fill="#212e3e" font-size="48" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">How was your ride with ManojManikantan?</tspan></text>
+    <g id="rate" transform="translate(15.236 47)">
+      <g id="star" transform="translate(294.764 756.893)">
+        <path id="Path_460" data-name="Path 460" d="M13.668,80.836l21.9-11.514,21.9,11.514L53.288,56.454l17.85-17.275L46.519,35.62,35.569,13.433,24.619,35.62,0,39.179,17.85,56.454ZM9.005,42.09l18.382-2.657,8.181-16.577L43.75,39.433,62.132,42.09,48.8,54.989l3.126,18.224-16.362-8.6-16.362,8.6,3.126-18.224Z" transform="translate(0 -13.433)" fill="#fcb44d"/>
+      </g>
+      <g id="star-2" data-name="star" transform="translate(395.764 754)">
+        <path id="Path_460-2" data-name="Path 460" d="M13.668,80.836l21.9-11.514,21.9,11.514L53.288,56.454l17.85-17.275L46.519,35.62,35.569,13.433,24.619,35.62,0,39.179,17.85,56.454ZM9.005,42.09l18.382-2.657,8.181-16.577L43.75,39.433,62.132,42.09,48.8,54.989l3.126,18.224-16.362-8.6-16.362,8.6,3.126-18.224Z" transform="translate(0 -13.433)" fill="#fcb44d"/>
+      </g>
+      <g id="star-3" data-name="star" transform="translate(496.764 754)">
+        <path id="Path_460-3" data-name="Path 460" d="M13.668,80.836l21.9-11.514,21.9,11.514L53.288,56.454l17.85-17.275L46.519,35.62,35.569,13.433,24.619,35.62,0,39.179,17.85,56.454ZM9.005,42.09l18.382-2.657,8.181-16.577L43.75,39.433,62.132,42.09,48.8,54.989l3.126,18.224-16.362-8.6-16.362,8.6,3.126-18.224Z" transform="translate(0 -13.433)" fill="#fcb44d"/>
+      </g>
+      <g id="star-4" data-name="star" transform="translate(598.764 754)">
+        <path id="Path_460-4" data-name="Path 460" d="M13.668,80.836l21.9-11.514,21.9,11.514L53.288,56.454l17.85-17.275L46.519,35.62,35.569,13.433,24.619,35.62,0,39.179,17.85,56.454ZM9.005,42.09l18.382-2.657,8.181-16.577L43.75,39.433,62.132,42.09,48.8,54.989l3.126,18.224-16.362-8.6-16.362,8.6,3.126-18.224Z" transform="translate(0 -13.433)" fill="#fcb44d"/>
+      </g>
+      <g id="star-5" data-name="star" transform="translate(699.764 754)">
+        <path id="Path_460-5" data-name="Path 460" d="M13.668,80.836l21.9-11.514,21.9,11.514L53.288,56.454l17.85-17.275L46.519,35.62,35.569,13.433,24.619,35.62,0,39.179,17.85,56.454ZM9.005,42.09l18.382-2.657,8.181-16.577L43.75,39.433,62.132,42.09,48.8,54.989l3.126,18.224-16.362-8.6-16.362,8.6,3.126-18.224Z" transform="translate(0 -13.433)" fill="#fcb44d"/>
+      </g>
+      <path id="star_1_" data-name="star (1)" d="M41.938,9.314,52.889,31.5l24.488,3.558L59.658,52.334l4.183,24.388-21.9-11.515-21.9,11.515,4.183-24.388L6.5,35.061,30.988,31.5Z" transform="translate(288.605 747.686)" fill="#fcb44d"/>
+      <path id="star_1_2" data-name="star (1)" d="M41.938,9.314,52.889,31.5l24.488,3.558L59.658,52.334l4.183,24.388-21.9-11.515-21.9,11.515,4.183-24.388L6.5,35.061,30.988,31.5Z" transform="translate(388.605 744.686)" fill="#fcb44d"/>
+      <path id="star_1_3" data-name="star (1)" d="M41.938,9.314,52.889,31.5l24.488,3.558L59.658,52.334l4.183,24.388-21.9-11.515-21.9,11.515,4.183-24.388L6.5,35.061,30.988,31.5Z" transform="translate(489.605 744.686)" fill="#fcb44d"/>
+      <path id="star_1_4" data-name="star (1)" d="M41.938,9.314,52.889,31.5l24.488,3.558L59.658,52.334l4.183,24.388-21.9-11.515-21.9,11.515,4.183-24.388L6.5,35.061,30.988,31.5Z" transform="translate(592.605 744.686)" fill="#fcb44d"/>
+    </g>
+    <g id="button" transform="translate(2 -9)">
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="993" height="130" rx="20" transform="translate(44 2112)" fill="#08c585"/>
+      <text id="sUBMIT" transform="translate(449 2198)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">SUBMIT</tspan></text>
+    </g>
+    <rect id="Rectangle_421" data-name="Rectangle 421" width="916" height="5" transform="translate(67 735)" fill="#eae8ec"/>
+  </g>
+</svg>

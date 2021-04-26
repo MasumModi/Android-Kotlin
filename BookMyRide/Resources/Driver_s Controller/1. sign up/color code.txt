@@ -1,0 +1,4 @@
+Segoi ui- semi bold
+
+gray : #A19AAB
+black : #585858

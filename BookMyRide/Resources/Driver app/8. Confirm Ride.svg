@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="2280" viewBox="0 0 1080 2280">
+  <defs>
+    <clipPath id="clip-_8._Confirm_Ride">
+      <rect width="1080" height="2280"/>
+    </clipPath>
+  </defs>
+  <g id="_8._Confirm_Ride" data-name="8. Confirm Ride" clip-path="url(#clip-_8._Confirm_Ride)">
+    <rect width="1080" height="2280" fill="#fff"/>
+    <g id="header" transform="translate(39 56)">
+      <text id="Past_Rides" data-name="Past Rides" transform="translate(501 54)" fill="#212e3e" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-116.644" y="0">Past Rides</tspan></text>
+      <path id="filter" d="M62.961,0H3.039A2.539,2.539,0,0,0,.5,2.539a24.8,24.8,0,0,0,8.316,18.52l11.12,9.884A9.048,9.048,0,0,1,22.971,37.7V62.461a2.54,2.54,0,0,0,3.947,2.112L41.9,54.587a2.54,2.54,0,0,0,1.131-2.113V37.7a9.048,9.048,0,0,1,3.034-6.757l11.12-9.884A24.8,24.8,0,0,0,65.5,2.539,2.539,2.539,0,0,0,62.961,0ZM53.81,17.263,42.69,27.148A14.131,14.131,0,0,0,37.951,37.7V51.115l-9.9,6.6V37.7A14.131,14.131,0,0,0,23.31,27.148L12.19,17.264A19.724,19.724,0,0,1,5.743,5.078H60.258A19.719,19.719,0,0,1,53.81,17.263Zm0,0" transform="translate(933.5 12)" fill="#585858"/>
+    </g>
+    <g id="list">
+      <g id="list_1" data-name="list 1" transform="translate(39 196)">
+        <rect id="Rectangle_387" data-name="Rectangle 387" width="1002" height="436" rx="15" fill="#f9f9f9"/>
+        <g id="to" transform="translate(37 34)">
+          <g id="circle" transform="translate(0 5)">
+            <circle id="Ellipse_79" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" fill="#08c585"/>
+            <circle id="Ellipse_80" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 16.5)" fill="#fff"/>
+          </g>
+          <text id="Waterloo" transform="translate(81 49)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Waterloo</tspan></text>
+        </g>
+        <g id="from" transform="translate(429 32)">
+          <text id="Toronto" transform="translate(74 52)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Toronto</tspan></text>
+          <g id="Group_188" data-name="Group 188">
+            <path id="Path_405" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+            <circle id="Ellipse_81" data-name="Ellipse 81" cx="12.5" cy="12.5" r="12.5" transform="translate(11.038 10.231) rotate(0.344)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="arrow" transform="translate(329 55.59)">
+          <line id="Line_5" data-name="Line 5" x2="74" transform="translate(0 15.91)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+          <line id="Line_6" data-name="Line 6" x2="21.833" y2="13.436" transform="translate(58.167)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+          <path id="Path_406" data-name="Path 406" d="M0,15.115,20.154,0" transform="translate(59.846 16.795)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+        </g>
+        <g id="stop" transform="translate(37 117)">
+          <text id="Stop_:" data-name="Stop :" transform="translate(0 43)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">STOP :</tspan></text>
+          <text id="_2_-_Kitchener_Guelph" data-name="2 - Kitchener &amp; Guelph" transform="translate(120 43)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 - Kitchener &amp; Guelph</tspan></text>
+        </g>
+        <g id="pickup" transform="translate(37 188)">
+          <text id="Pickup_:" data-name="Pickup :" transform="translate(0 44)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP :</tspan></text>
+          <text id="_3:00_pm_to_4:00_pm" data-name="3:00 pm to 4:00 pm" transform="translate(156 43)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">3:00 pm to 4:00 pm</tspan></text>
+        </g>
+        <g id="people" transform="translate(37 258)">
+          <text id="People_:" data-name="People :" transform="translate(0 44)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PEOPLE :</tspan></text>
+          <text id="_2_Two_" data-name="2 (Two)" transform="translate(156 43)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 (Two)</tspan></text>
+        </g>
+        <path id="Rectangle_388" data-name="Rectangle 388" d="M0,0H1002a0,0,0,0,1,0,0V83a15,15,0,0,1-15,15H15A15,15,0,0,1,0,83V0A0,0,0,0,1,0,0Z" transform="translate(0 338)" fill="#212e3e"/>
+        <g id="date" transform="translate(32 361)">
+          <text id="Date_:" data-name="Date :" transform="translate(0 41)" fill="#08c585" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DATE :</tspan></text>
+          <text id="_29-Jan-2021_" data-name="29-Jan-2021      " transform="translate(128 43)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0" xml:space="preserve">29-Jan-2021      </tspan></text>
+        </g>
+        <g id="confirm" transform="translate(-15 -183)">
+          <rect id="Rectangle_411" data-name="Rectangle 411" width="211" height="63" rx="31.5" transform="translate(786 216)" fill="#21e199"/>
+          <text id="Completed" transform="translate(892 262)" fill="#fff" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-88.415" y="0">Completed</tspan></text>
+        </g>
+      </g>
+      <g id="list_2" data-name="list 2" transform="translate(39 664.744)">
+        <rect id="Rectangle_387-2" data-name="Rectangle 387" width="1002" height="436" rx="15" transform="translate(0 0.256)" fill="#f9f9f9"/>
+        <g id="to-2" data-name="to" transform="translate(37 35)">
+          <g id="circle-2" data-name="circle" transform="translate(0 5)">
+            <circle id="Ellipse_79-2" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" transform="translate(0 0.256)" fill="#08c585"/>
+            <circle id="Ellipse_80-2" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 16.567)" fill="#fff"/>
+          </g>
+          <text id="Quebec" transform="translate(81 49.256)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Quebec</tspan></text>
+        </g>
+        <g id="from-2" data-name="from" transform="translate(414 32.067)">
+          <text id="Toronto-2" data-name="Toronto" transform="translate(74 51.189)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Toronto</tspan></text>
+          <g id="Group_188-2" data-name="Group 188">
+            <path id="Path_405-2" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+            <ellipse id="Ellipse_81-2" data-name="Ellipse 81" cx="12.894" cy="13.984" rx="12.894" ry="13.984" transform="translate(11.038 10.231) rotate(0.344)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="arrow-2" data-name="arrow" transform="translate(302.5 55.244)">
+          <line id="Line_5-2" data-name="Line 5" x2="74" transform="translate(0 15.91)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+          <line id="Line_6-2" data-name="Line 6" x2="21.833" y2="13.436" transform="translate(58.167)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+          <path id="Path_406-2" data-name="Path 406" d="M0,15.115,20.154,0" transform="translate(59.846 16.795)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+        </g>
+        <g id="stop-2" data-name="stop" transform="translate(37 117)">
+          <text id="Stop_:-2" data-name="Stop :" transform="translate(0 43.256)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">STOP :</tspan></text>
+          <text id="_0_No_any_stop_" data-name="0 ( No any stop)" transform="translate(120 43.256)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">0 ( No any stop)</tspan></text>
+        </g>
+        <g id="pickup-2" data-name="pickup" transform="translate(37 188)">
+          <text id="Pickup_:-2" data-name="Pickup :" transform="translate(0 44.256)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP :</tspan></text>
+          <text id="_10:00_am_to_10:30_am" data-name="10:00 am to 10:30 am" transform="translate(156 43.256)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">10:00 am to 10:30 am</tspan></text>
+        </g>
+        <g id="people-2" data-name="people" transform="translate(37 258)">
+          <text id="People_:-2" data-name="People :" transform="translate(0 44.256)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PEOPLE :</tspan></text>
+          <text id="_1_One_" data-name="1 (One)" transform="translate(156 43.256)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">1 (One)</tspan></text>
+        </g>
+        <path id="Rectangle_388-2" data-name="Rectangle 388" d="M0,0H1002a0,0,0,0,1,0,0V83a15,15,0,0,1-15,15H15A15,15,0,0,1,0,83V0A0,0,0,0,1,0,0Z" transform="translate(0 338.256)" fill="#212e3e"/>
+        <g id="day" transform="translate(123 350)">
+          <text id="S" transform="translate(0 53.256)" fill="#ff2753" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">S</tspan></text>
+          <g id="m" transform="translate(78)">
+            <g id="Ellipse_82" data-name="Ellipse 82" transform="translate(0 0.256)" fill="none" stroke="#979797" stroke-width="2">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="36.5" fill="none"/>
+            </g>
+            <text id="M-2" data-name="M" transform="translate(20 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">M</tspan></text>
+          </g>
+          <g id="t" transform="translate(209)">
+            <g id="Ellipse_82-2" data-name="Ellipse 82" transform="translate(0 0.256)" fill="none" stroke="#979797" stroke-width="2">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="36.5" fill="none"/>
+            </g>
+            <text id="T-2" data-name="T" transform="translate(27 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">T</tspan></text>
+          </g>
+          <g id="w" transform="translate(341)">
+            <g id="Ellipse_82-3" data-name="Ellipse 82" transform="translate(0 0.256)" fill="none" stroke="#979797" stroke-width="2">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="36.5" fill="none"/>
+            </g>
+            <text id="W-2" data-name="W" transform="translate(19 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">W</tspan></text>
+          </g>
+          <g id="t-3" data-name="t" transform="translate(473)">
+            <g id="Ellipse_82-4" data-name="Ellipse 82" transform="translate(0 0.256)" fill="none" stroke="#979797" stroke-width="2">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="36.5" fill="none"/>
+            </g>
+            <text id="T-4" data-name="T" transform="translate(27 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">T</tspan></text>
+          </g>
+          <g id="f" transform="translate(604)">
+            <g id="Ellipse_82-5" data-name="Ellipse 82" transform="translate(0 0.256)" fill="none" stroke="#979797" stroke-width="2">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="36.5" fill="none"/>
+            </g>
+            <text id="F-2" data-name="F" transform="translate(28 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">F</tspan></text>
+          </g>
+          <text id="S-2" data-name="S" transform="translate(736 53.256)" fill="#fff" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">S</tspan></text>
+        </g>
+        <g id="confirm-2" data-name="confirm" transform="translate(-15 -181.744)">
+          <rect id="Rectangle_411-2" data-name="Rectangle 411" width="211" height="63" rx="31.5" transform="translate(786 216)" fill="#21e199"/>
+          <text id="Completed-2" data-name="Completed" transform="translate(892 262)" fill="#fff" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-88.415" y="0">Completed</tspan></text>
+        </g>
+      </g>
+      <g id="list_3" data-name="list 3" transform="translate(39 1122.468)">
+        <rect id="Rectangle_387-3" data-name="Rectangle 387" width="1002" height="436" rx="15" transform="translate(0 -0.468)" fill="#f9f9f9"/>
+        <g id="to-3" data-name="to" transform="translate(37 34)">
+          <g id="circle-3" data-name="circle" transform="translate(0 5)">
+            <circle id="Ellipse_79-3" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" transform="translate(0 -0.468)" fill="#08c585"/>
+            <circle id="Ellipse_80-3" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 15.847)" fill="#fff"/>
+          </g>
+          <text id="Kitchener" transform="translate(82 48.532)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Kitchener</tspan></text>
+        </g>
+        <g id="from-3" data-name="from" transform="translate(448 31.347)">
+          <text id="Ottawa" transform="translate(74 52.185)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Ottawa</tspan></text>
+          <g id="Group_188-3" data-name="Group 188">
+            <path id="Path_405-3" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+            <ellipse id="Ellipse_81-3" data-name="Ellipse 81" cx="12.894" cy="13.984" rx="12.894" ry="13.984" transform="translate(11.038 10.231) rotate(0.344)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="arrow-3" data-name="arrow" transform="translate(342 55.144)">
+          <line id="Line_5-3" data-name="Line 5" x2="74" transform="translate(0 15.91)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+          <line id="Line_6-3" data-name="Line 6" x2="21.833" y2="13.436" transform="translate(58.167)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+          <path id="Path_406-3" data-name="Path 406" d="M0,15.115,20.154,0" transform="translate(59.846 16.795)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+        </g>
+        <g id="stop-3" data-name="stop" transform="translate(37 117)">
+          <text id="Stop_:-3" data-name="Stop :" transform="translate(0 42.532)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">STOP :</tspan></text>
+          <text id="_1_-_Waterloo" data-name="1 - Waterloo" transform="translate(120 42.532)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">1 - Waterloo</tspan></text>
+        </g>
+        <g id="pickup-3" data-name="pickup" transform="translate(37 188)">
+          <text id="Pickup_:-3" data-name="Pickup :" transform="translate(0 43.532)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP :</tspan></text>
+          <text id="_12:30_pm_to_1:15_pm" data-name="12:30 pm to 1:15 pm" transform="translate(156 42.532)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">12:30 pm to 1:15 pm</tspan></text>
+        </g>
+        <g id="people-3" data-name="people" transform="translate(37 258)">
+          <text id="People_:-3" data-name="People :" transform="translate(0 43.532)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PEOPLE :</tspan></text>
+          <text id="_5_Five_" data-name="5 (Five)" transform="translate(156 42.532)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">5 (Five)</tspan></text>
+        </g>
+        <path id="Rectangle_388-3" data-name="Rectangle 388" d="M0,0H1002a0,0,0,0,1,0,0V83a15,15,0,0,1-15,15H15A15,15,0,0,1,0,83V0A0,0,0,0,1,0,0Z" transform="translate(0 337.532)" fill="#212e3e"/>
+        <g id="date-2" data-name="date" transform="translate(32 361)">
+          <text id="Date_:-2" data-name="Date :" transform="translate(0 40.532)" fill="#08c585" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DATE :</tspan></text>
+          <text id="_29-Jan-2021" data-name="29-Jan-2021" transform="translate(128 42.532)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">29-Jan-2021</tspan></text>
+        </g>
+        <g id="confirm-3" data-name="confirm" transform="translate(-15 -176.468)">
+          <rect id="Rectangle_411-3" data-name="Rectangle 411" width="211" height="63" rx="31.5" transform="translate(786 216)" fill="#21e199"/>
+          <text id="Completed-3" data-name="Completed" transform="translate(892 262)" fill="#fff" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-88.415" y="0">Completed</tspan></text>
+        </g>
+      </g>
+      <g id="list_4" data-name="list 4" transform="translate(39 1585.212)">
+        <rect id="Rectangle_387-4" data-name="Rectangle 387" width="1002" height="436" rx="15" transform="translate(0 -0.212)" fill="#f9f9f9"/>
+        <g id="to-4" data-name="to" transform="translate(37 34)">
+          <g id="circle-4" data-name="circle" transform="translate(0 5)">
+            <circle id="Ellipse_79-4" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" transform="translate(0 -0.212)" fill="#08c585"/>
+            <circle id="Ellipse_80-4" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 16.189)" fill="#fff"/>
+          </g>
+          <text id="Waterloo-2" data-name="Waterloo" transform="translate(82 48.788)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Waterloo</tspan></text>
+        </g>
+        <g id="from-4" data-name="from" transform="translate(429 31.485)">
+          <text id="Missisauga" transform="translate(74 49.303)" fill="#212e3e" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Missisauga</tspan></text>
+          <g id="Group_188-4" data-name="Group 188">
+            <path id="Path_405-4" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+            <ellipse id="Ellipse_81-4" data-name="Ellipse 81" cx="12.894" cy="13.984" rx="12.894" ry="13.984" transform="translate(11.038 10.231) rotate(0.344)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="arrow-4" data-name="arrow" transform="translate(329.5 55.074)">
+          <line id="Line_5-4" data-name="Line 5" x2="74" transform="translate(0 15.91)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+          <line id="Line_6-4" data-name="Line 6" x2="21.833" y2="13.436" transform="translate(58.167)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+          <path id="Path_406-4" data-name="Path 406" d="M0,15.115,20.154,0" transform="translate(59.846 16.795)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+        </g>
+        <g id="stop-4" data-name="stop" transform="translate(37 117)">
+          <text id="Stop_:-4" data-name="Stop :" transform="translate(0 42.788)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">STOP :</tspan></text>
+          <text id="_1_-_Cambridge" data-name="1 - Cambridge" transform="translate(120 42.788)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">1 - Cambridge</tspan></text>
+        </g>
+        <g id="pickup-4" data-name="pickup" transform="translate(37 188)">
+          <text id="Pickup_:-4" data-name="Pickup :" transform="translate(0 43.788)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP :</tspan></text>
+          <text id="_06:30_am_to_7:00_am" data-name="06:30 am to 7:00 am" transform="translate(156 42.788)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">06:30 am to 7:00 am</tspan></text>
+        </g>
+        <g id="people-4" data-name="people" transform="translate(37 258)">
+          <text id="People_:-4" data-name="People :" transform="translate(0 43.788)" fill="#a19aab" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PEOPLE :</tspan></text>
+          <text id="_2_Two_2" data-name="2 (Two)" transform="translate(156 42.788)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 (Two)</tspan></text>
+        </g>
+        <path id="Rectangle_388-4" data-name="Rectangle 388" d="M0,0H1002a0,0,0,0,1,0,0V83a15,15,0,0,1-15,15H15A15,15,0,0,1,0,83V0A0,0,0,0,1,0,0Z" transform="translate(0 337.788)" fill="#212e3e"/>
+        <g id="date-3" data-name="date" transform="translate(32 361)">
+          <text id="Date_:-3" data-name="Date :" transform="translate(0 40.788)" fill="#08c585" font-size="36" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DATE :</tspan></text>
+          <text id="_29-Jan-2021_2" data-name="29-Jan-2021 " transform="translate(128 42.788)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">29-Jan-2021 </tspan></text>
+        </g>
+        <g id="confirm-4" data-name="confirm" transform="translate(-15 -183.212)">
+          <rect id="Rectangle_411-4" data-name="Rectangle 411" width="211" height="63" rx="31.5" transform="translate(786 216)" fill="#21e199"/>
+          <text id="Completed-4" data-name="Completed" transform="translate(892 262)" fill="#fff" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-88.415" y="0">Completed</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="back" transform="translate(22 2058)">
+      <g id="next" transform="translate(13.765 -1997)">
+        <path id="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+        <path id="left-arrow-2" data-name="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+      </g>
+    </g>
+  </g>
+</svg>

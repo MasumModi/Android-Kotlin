@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="2280" viewBox="0 0 1080 2280">
+  <defs>
+    <clipPath id="clip-_5._Details_of_received_an_offer">
+      <rect width="1080" height="2280"/>
+    </clipPath>
+  </defs>
+  <g id="_5._Details_of_received_an_offer" data-name="5. Details of received an offer" clip-path="url(#clip-_5._Details_of_received_an_offer)">
+    <rect width="1080" height="2280" fill="#fff"/>
+    <g id="header">
+      <g id="back" transform="translate(36 2060)">
+        <g id="next" transform="translate(13.765 -1997)">
+          <path id="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+          <path id="left-arrow-2" data-name="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+        </g>
+      </g>
+      <text id="Details" transform="translate(540 109)" fill="#212e3e" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-78.336" y="0">Details</tspan></text>
+    </g>
+    <g id="top_box" data-name="top box">
+      <rect id="Rectangle_391" data-name="Rectangle 391" width="993" height="485" rx="20" transform="translate(44 175)" fill="#212e3e"/>
+      <text id="Masum_Modi" data-name="Masum Modi" transform="translate(376 525.783)" fill="#fff" font-size="55" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Masum Modi</tspan></text>
+      <g id="user_profile" data-name="user profile" transform="translate(471.132 272.853)">
+        <circle id="Ellipse_83" data-name="Ellipse 83" cx="113" cy="113" r="113" transform="translate(-43.132 -52.853)" fill="#485565"/>
+        <g id="Group_190" data-name="Group 190" transform="translate(29.27)">
+          <g id="Group_189" data-name="Group 189">
+            <path id="Path_407" data-name="Path 407" d="M151.216,0a40.426,40.426,0,1,0,40.426,40.426A40.533,40.533,0,0,0,151.216,0Z" transform="translate(-110.791)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_192" data-name="Group 192" transform="translate(0 83.743)">
+          <g id="Group_191" data-name="Group 191">
+            <path id="Path_408" data-name="Path 408" d="M163.237,277.254a37.688,37.688,0,0,0-4.06-7.414A50.248,50.248,0,0,0,124.4,247.95a7.441,7.441,0,0,0-5.119,1.236,43.091,43.091,0,0,1-50.841,0,6.624,6.624,0,0,0-5.119-1.236,49.884,49.884,0,0,0-34.776,21.89,43.455,43.455,0,0,0-4.06,7.414,3.754,3.754,0,0,0,.176,3.354,70.427,70.427,0,0,0,4.766,7.061,67.088,67.088,0,0,0,8.121,9.179,105.815,105.815,0,0,0,8.121,7.061,80.5,80.5,0,0,0,96.032,0,77.619,77.619,0,0,0,8.12-7.061,81.513,81.513,0,0,0,8.121-9.179,61.888,61.888,0,0,0,4.766-7.061A3.013,3.013,0,0,0,163.237,277.254Z" transform="translate(-24.165 -247.841)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="location" transform="translate(195 533.998)">
+        <g id="to" transform="translate(-3 35)">
+          <g id="circle" transform="translate(0 5)">
+            <circle id="Ellipse_79" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" transform="translate(0 0.002)" fill="#08c585"/>
+            <circle id="Ellipse_80" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 16.502)" fill="#fff"/>
+          </g>
+          <text id="Waterloo" transform="translate(81 49.002)" fill="#fff" font-size="47" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Waterloo</tspan></text>
+        </g>
+        <g id="from" transform="translate(452 31.59)">
+          <text id="Toronto" transform="translate(74 51.412)" fill="#fff" font-size="47" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">Toronto</tspan></text>
+          <g id="Group_188" data-name="Group 188" transform="translate(0 0.412)">
+            <path id="Path_405" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+            <circle id="Ellipse_81" data-name="Ellipse 81" cx="12.5" cy="12.5" r="12.5" transform="translate(11.038 12.231) rotate(0.344)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="arrow" transform="translate(321.5 55.18)">
+          <line id="Line_5" data-name="Line 5" x2="74" transform="translate(0 15.91)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+          <line id="Line_6" data-name="Line 6" x2="21.833" y2="13.436" transform="translate(58.167)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+          <path id="Path_406" data-name="Path 406" d="M0,15.115,20.154,0" transform="translate(59.846 16.795)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 5"/>
+        </g>
+      </g>
+    </g>
+    <g id="button" transform="translate(0 -9)">
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="993" height="130" rx="20" transform="translate(44 2112)" fill="#08c585"/>
+      <text id="RECEIVED_an_offer" data-name="RECEIVED an offer" transform="translate(304 2198)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">RECEIVED AN OFFER</tspan></text>
+    </g>
+    <g id="date" transform="translate(102 1607)">
+      <g id="Rectangle_395" data-name="Rectangle 395" transform="translate(-63 108)" fill="#efeef1" stroke="#eae8ec" stroke-width="1">
+        <rect width="1002" height="115" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1001" height="114" rx="9.5" fill="none"/>
+      </g>
+      <text id="Date_:" data-name="Date :" transform="translate(18 183)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DATE :</tspan></text>
+      <text id="_29-Jan-2021_" data-name="29-Jan-2021 " transform="translate(163 184)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">29-Jan-2021 </tspan></text>
+      <g id="icon" transform="translate(-50 142)">
+        <path id="Path_413" data-name="Path 413" d="M122.932,259.315a1.074,1.074,0,0,0-1.074-1.073h-3.749a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074v-3.749Z" transform="translate(-106.211 -233.202)" fill="#08c585"/>
+        <path id="Path_414" data-name="Path 414" d="M219.567,259.315a1.074,1.074,0,0,0-1.073-1.073h-3.75a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.75a1.074,1.074,0,0,0,1.073-1.074Z" transform="translate(-193.476 -233.202)" fill="#08c585"/>
+        <path id="Path_415" data-name="Path 415" d="M316.2,259.315a1.074,1.074,0,0,0-1.074-1.073h-3.749a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074Z" transform="translate(-280.735 -233.202)" fill="#08c585"/>
+        <path id="Path_416" data-name="Path 416" d="M122.932,355.949a1.074,1.074,0,0,0-1.074-1.074h-3.749a1.073,1.073,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074v-3.748Z" transform="translate(-106.211 -320.465)" fill="#08c585"/>
+        <path id="Path_417" data-name="Path 417" d="M219.567,355.949a1.073,1.073,0,0,0-1.073-1.074h-3.75a1.073,1.073,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.75a1.074,1.074,0,0,0,1.073-1.074Z" transform="translate(-193.476 -320.465)" fill="#08c585"/>
+        <path id="Path_418" data-name="Path 418" d="M316.2,355.949a1.073,1.073,0,0,0-1.073-1.074h-3.75a1.074,1.074,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.75A1.074,1.074,0,0,0,316.2,359.7v-3.748Z" transform="translate(-280.735 -320.465)" fill="#08c585"/>
+        <path id="Path_419" data-name="Path 419" d="M47.575,54.163v5.726a4.677,4.677,0,0,1-4.687,4.673H39.931a4.7,4.7,0,0,1-4.715-4.673V54.142H21.89v5.746a4.7,4.7,0,0,1-4.715,4.673H14.218a4.676,4.676,0,0,1-4.687-4.673V54.163a4.262,4.262,0,0,0-4.12,4.24V91.958a4.264,4.264,0,0,0,4.243,4.268h37.8A4.269,4.269,0,0,0,51.7,91.958V58.4A4.262,4.262,0,0,0,47.575,54.163ZM46.2,89.868A1.834,1.834,0,0,1,44.368,91.7H12.657a1.834,1.834,0,0,1-1.834-1.834V72.535A1.834,1.834,0,0,1,12.657,70.7h31.71A1.834,1.834,0,0,1,46.2,72.535V89.868Z" transform="translate(-5.411 -48.892)" fill="#08c585"/>
+        <path id="Path_420" data-name="Path 420" d="M81.157,12.6h2.925a1.607,1.607,0,0,0,1.607-1.606V1.607A1.607,1.607,0,0,0,84.082,0H81.157A1.607,1.607,0,0,0,79.55,1.607v9.387A1.607,1.607,0,0,0,81.157,12.6Z" transform="translate(-72.361 0)" fill="#08c585"/>
+        <path id="Path_421" data-name="Path 421" d="M346.065,12.6h2.925a1.607,1.607,0,0,0,1.607-1.606V1.607A1.607,1.607,0,0,0,348.99,0h-2.925a1.607,1.607,0,0,0-1.607,1.607v9.387A1.607,1.607,0,0,0,346.065,12.6Z" transform="translate(-311.582 0)" fill="#08c585"/>
+      </g>
+    </g>
+    <g id="lugguage" transform="translate(25 340)">
+      <rect id="Rectangle_394" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_2_Bags" data-name="2 Bags" transform="translate(347 1267)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 Bags</tspan></text>
+      <text id="Lugguage_:" data-name="Lugguage :" transform="translate(100 1266)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">LUGGUAGE :</tspan></text>
+      <g id="travelling-luggage" transform="translate(22.018 1223)">
+        <path id="Path_411" data-name="Path 411" d="M37.486,13h-4.87V2.55A2.607,2.607,0,0,0,29.952,0H21.009a2.606,2.606,0,0,0-2.666,2.55V13h-4.87a3.4,3.4,0,0,0-3.491,3.309V46.992A3.4,3.4,0,0,0,13.473,50.3h2.542a2.421,2.421,0,0,0,4.622,0h9.689a2.423,2.423,0,0,0,4.624,0h2.541a3.4,3.4,0,0,0,3.491-3.309V16.307A3.409,3.409,0,0,0,37.486,13ZM21.909,6.105a1.05,1.05,0,0,1,1.06-1.03h5.019a1.05,1.05,0,0,1,1.06,1.03V13H21.908V6.105Zm14.3,17.042H14.745a1.694,1.694,0,1,1,0-3.383H36.212a1.694,1.694,0,1,1,0,3.383Z" transform="translate(0)" fill="#08c585"/>
+      </g>
+    </g>
+    <g id="people" transform="translate(20 216)">
+      <rect id="Rectangle_394-2" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_2_Two_" data-name="2 (Two)" transform="translate(286 1266)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 (Two)</tspan></text>
+      <text id="PEOPLE_:" data-name="PEOPLE :" transform="translate(105 1265)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PEOPLE :</tspan></text>
+      <g id="user_1_" data-name="user (1)" transform="translate(2.001 1226)">
+        <g id="Group_194" data-name="Group 194" transform="translate(38.843 -1)">
+          <g id="Group_193" data-name="Group 193" transform="translate(0)">
+            <path id="Path_409" data-name="Path 409" d="M132.765,0A11.766,11.766,0,1,0,144.53,11.766,11.779,11.779,0,0,0,132.765,0Z" transform="translate(-120.999)" fill="#08c585"/>
+          </g>
+        </g>
+        <g id="Group_196" data-name="Group 196" transform="translate(30.999 26.105)">
+          <g id="Group_195" data-name="Group 195" transform="translate(0)">
+            <path id="Path_410" data-name="Path 410" d="M70,310.426A18.884,18.884,0,0,0,54.254,302H46.962a18.884,18.884,0,0,0-15.744,8.426l-.22.329V320.3H70.218v-9.547Z" transform="translate(-30.999 -302)" fill="#08c585"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="pickup" transform="translate(27 89)">
+      <rect id="Rectangle_394-3" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_03:00_pm_to_04:00_pm" data-name="03:00 pm to 04:00 pm" transform="translate(283 1267)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">03:00 pm to 04:00 pm</tspan></text>
+      <text id="pickup_:" data-name="pickup :" transform="translate(98 1266)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP :</tspan></text>
+      <g id="clock" transform="translate(24 1228)">
+        <path id="Path_412" data-name="Path 412" d="M21.5,0A21.5,21.5,0,1,0,43,21.5,21.524,21.524,0,0,0,21.5,0ZM31.725,32.621a1.791,1.791,0,0,1-2.533,0l-8.958-8.958a1.784,1.784,0,0,1-.525-1.267V10.75a1.792,1.792,0,1,1,3.583,0v10.9l8.433,8.433a1.79,1.79,0,0,1,0,2.533Z" fill="#08c585"/>
+      </g>
+    </g>
+    <g id="stop" transform="translate(22 -35)">
+      <rect id="Rectangle_394-4" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_2_-_Kitchener_Guelph" data-name="2 - Kitchener &amp; Guelph" transform="translate(241 1268)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2 - Kitchener &amp; Guelph</tspan></text>
+      <text id="STOP_:" data-name="STOP :" transform="translate(103 1267)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">STOP :</tspan></text>
+      <g id="stop-2" data-name="stop" transform="translate(29.5 1229)">
+        <g id="Group_198" data-name="Group 198" transform="translate(0.5)">
+          <path id="Path_422" data-name="Path 422" d="M31.295,0H12.122L.5,12.869V29.543l11.616,13.04H31.295L43,29.631V12.952ZM38.01,27.711l-8.932,9.881H14.332L5.49,27.621V14.789l8.848-9.8H29.077l8.932,9.881ZM15.447,7.485,7.985,15.749V26.674L15.454,35.1H27.969l7.545-8.347V15.832L27.969,7.485Z" transform="translate(-0.5)" fill="#08c585"/>
+        </g>
+      </g>
+    </g>
+    <g id="location-2" data-name="location" transform="translate(187 1102.998)">
+      <rect id="Rectangle_392" data-name="Rectangle 392" width="919" height="3" transform="translate(-65 -187.998)" fill="#a19aab" opacity="0.93"/>
+      <g id="to-2" data-name="to" transform="translate(-2 35)">
+        <g id="circle-2" data-name="circle" transform="translate(-140 -377)">
+          <circle id="Ellipse_79-2" data-name="Ellipse 79" cx="27.5" cy="27.5" r="27.5" transform="translate(0 0.002)" fill="#08c585"/>
+          <circle id="Ellipse_80-2" data-name="Ellipse 80" cx="11" cy="11" r="11" transform="translate(16.5 16.502)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="from-2" data-name="from" transform="translate(-135 -158.41)">
+        <g id="Group_188-2" data-name="Group 188" transform="translate(-3 0.412)">
+          <path id="Path_405-2" data-name="Path 405" d="M352.707,116.221c-.142,23.829-24.091,40.821-24.091,40.821s-23.747-16.86-23.6-41.1a23.848,23.848,0,1,1,47.694.284Z" transform="translate(-305.012 -92.042)" fill="#08c585"/>
+          <circle id="Ellipse_81-2" data-name="Ellipse 81" cx="12.5" cy="12.5" r="12.5" transform="translate(11.038 12.231) rotate(0.344)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="arrow-2" data-name="arrow" transform="translate(318 59.18)">
+        <line id="Line_5-2" data-name="Line 5" x1="1" y2="127.412" transform="translate(-433 -343.09)" fill="none" stroke="#a19aab" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+      </g>
+      <text id="_326_Westcourt_Place_Waterloo_ON" data-name="326, Westcourt Place, Waterloo, ON" transform="translate(-65 -228.998)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">326, Westcourt Place, Waterloo, ON</tspan></text>
+      <text id="DROP_ADDRESS" data-name="DROP ADDRESS" transform="translate(-62 -111.998)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DROP ADDRESS</tspan></text>
+      <text id="_128_Spruce_Street_Toronto_ON" data-name="128 Spruce Street, Toronto, ON" transform="translate(-65 -45.998)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">128 Spruce Street, Toronto, ON</tspan></text>
+      <text id="PICKUP_ADDRESS" data-name="PICKUP ADDRESS" transform="translate(-62 -298.998)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP ADDRESS</tspan></text>
+    </g>
+    <text id="_2_Drivers_have_seen_your_post" data-name="2 Drivers have seen your post" transform="translate(57 1900)" fill="#212e3e" font-size="48" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="52">2 Drivers </tspan><tspan y="52" fill="#a19aab">have seen your post</tspan></text>
+  </g>
+</svg>

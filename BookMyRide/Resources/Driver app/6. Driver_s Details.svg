@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="2280" viewBox="0 0 1080 2280">
+  <defs>
+    <clipPath id="clip-_6._Driver_s_Details">
+      <rect width="1080" height="2280"/>
+    </clipPath>
+  </defs>
+  <g id="_6._Driver_s_Details" data-name="6. Driver&apos;s Details" clip-path="url(#clip-_6._Driver_s_Details)">
+    <rect width="1080" height="2280" fill="#fff"/>
+    <g id="header">
+      <g id="back" transform="translate(36 2060)">
+        <g id="next" transform="translate(13.765 -1997)">
+          <path id="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+          <path id="left-arrow-2" data-name="left-arrow" d="M68.375,35.625H16.008l20.052-19.1a2.625,2.625,0,1,0-3.621-3.8L9.538,34.537a5.248,5.248,0,0,0,.046,7.469L32.44,63.776a2.625,2.625,0,1,0,3.621-3.8l-20.136-19.1h52.45a2.625,2.625,0,1,0,0-5.25Z" transform="translate(-8 -12)" fill="#585858"/>
+        </g>
+      </g>
+      <text id="Driver_s_Details" data-name="Driver&apos;s Details" transform="translate(540 109)" fill="#212e3e" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="-171.982" y="0">Driver&apos;s Details</tspan></text>
+    </g>
+    <g id="top_box" data-name="top box">
+      <rect id="Rectangle_391" data-name="Rectangle 391" width="993" height="485" rx="20" transform="translate(44 175)" fill="#212e3e"/>
+      <text id="Manoj_Manikantan" data-name="Manoj Manikantan" transform="translate(306 525.783)" fill="#fff" font-size="55" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Manoj Manikantan</tspan></text>
+      <g id="user_profile" data-name="user profile" transform="translate(471.132 272.853)">
+        <circle id="Ellipse_83" data-name="Ellipse 83" cx="113" cy="113" r="113" transform="translate(-43.132 -52.853)" fill="#485565"/>
+        <g id="Group_190" data-name="Group 190" transform="translate(29.27)">
+          <g id="Group_189" data-name="Group 189">
+            <path id="Path_407" data-name="Path 407" d="M151.216,0a40.426,40.426,0,1,0,40.426,40.426A40.533,40.533,0,0,0,151.216,0Z" transform="translate(-110.791)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_192" data-name="Group 192" transform="translate(0 83.743)">
+          <g id="Group_191" data-name="Group 191">
+            <path id="Path_408" data-name="Path 408" d="M163.237,277.254a37.688,37.688,0,0,0-4.06-7.414A50.248,50.248,0,0,0,124.4,247.95a7.441,7.441,0,0,0-5.119,1.236,43.091,43.091,0,0,1-50.841,0,6.624,6.624,0,0,0-5.119-1.236,49.884,49.884,0,0,0-34.776,21.89,43.455,43.455,0,0,0-4.06,7.414,3.754,3.754,0,0,0,.176,3.354,70.427,70.427,0,0,0,4.766,7.061,67.088,67.088,0,0,0,8.121,9.179,105.815,105.815,0,0,0,8.121,7.061,80.5,80.5,0,0,0,96.032,0,77.619,77.619,0,0,0,8.12-7.061,81.513,81.513,0,0,0,8.121-9.179,61.888,61.888,0,0,0,4.766-7.061A3.013,3.013,0,0,0,163.237,277.254Z" transform="translate(-24.165 -247.841)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="car" transform="translate(173 568.998)">
+        <text id="CAR_:_Toyata_Corola" data-name="CAR : Toyata Corola" transform="translate(193 48.002)" fill="#fff" font-size="48" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">CAR : Toyata Corola</tspan></text>
+        <g id="sedan-car-front" transform="translate(109 -1.461)">
+          <path id="Path_459" data-name="Path 459" d="M60.379,21.914a1.921,1.921,0,0,0-.131-.147L57.992,19.59c1.871-.424,3.885-1.992,3.885-3.6,0-1.873-2.6-2.538-4.819-2.538-2.32,0-2.589,1.59-2.617,2.713l-5.82-5.611a8.213,8.213,0,0,0-5.1-2.091H20.846a8.216,8.216,0,0,0-5.1,2.091L9.928,16.165c-.03-1.123-.3-2.713-2.617-2.713-2.221,0-4.82.665-4.82,2.538,0,1.608,2.015,3.175,3.886,3.6L4.121,21.767c-.051.049-.087.1-.131.147A12.635,12.635,0,0,0,0,30.578v8.249A7.524,7.524,0,0,0,2.065,44v3.2a3.45,3.45,0,0,0,3.492,3.4H9.779a3.447,3.447,0,0,0,3.491-3.4v-.818H51.1V47.2a3.446,3.446,0,0,0,3.492,3.4h4.221A3.448,3.448,0,0,0,62.3,47.2V44a7.518,7.518,0,0,0,2.065-5.173V30.578A12.621,12.621,0,0,0,60.379,21.914Zm-42.5-8.866a5.819,5.819,0,0,1,2.962-1.2H43.523a5.819,5.819,0,0,1,2.962,1.2l7.631,7.4H10.253ZM2.618,29.33A3.618,3.618,0,0,1,6.17,25.65c1.961,0,8.371,3.762,8.371,5.793S8.132,33,6.17,33A3.612,3.612,0,0,1,2.618,29.33ZM13.271,42.764H11.918L7.9,42.77a7.631,7.631,0,0,1-2.455-1.186,3.483,3.483,0,0,1-.665-.675,2.642,2.642,0,0,1-.373-.682,3.1,3.1,0,0,1,.532-2.708h6.85l4.566,5.242-3.089,0Zm28.762,0h-19.7a3.722,3.722,0,0,1-3.72-3.719H45.754A3.72,3.72,0,0,1,42.033,42.767Zm.864-6.257H21.471c-2.233,0-4.046-2.754-4.046-6.149H46.944C46.944,33.757,45.131,36.509,42.9,36.509Zm17.061,3.72a2.66,2.66,0,0,1-.374.681,3.409,3.409,0,0,1-.665.675,7.563,7.563,0,0,1-2.455,1.186l-4.013-.007H48.007l4.569-5.242h6.848A3.1,3.1,0,0,1,59.959,40.23ZM58.2,33c-1.96,0-8.37.468-8.37-1.561s6.41-5.793,8.37-5.793A3.679,3.679,0,0,1,58.2,33Z" transform="translate(0)" fill="#08c585"/>
+        </g>
+      </g>
+    </g>
+    <g id="button" transform="translate(-11 -3)">
+      <rect id="Rectangle_419" data-name="Rectangle 419" width="455" height="130" rx="20" transform="translate(578 2116)" fill="#08c585"/>
+      <rect id="Rectangle_420" data-name="Rectangle 420" width="455" height="130" rx="20" transform="translate(69 2116)" fill="#f3234d"/>
+      <text id="accept" transform="translate(717 2202)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">ACCEPT</tspan></text>
+      <text id="deny" transform="translate(232 2202)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DENY</tspan></text>
+    </g>
+    <g id="lugguage" transform="translate(27 -100)">
+      <rect id="Rectangle_394" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_29-Jan-2021" data-name="29-Jan-2021" transform="translate(244 1268)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">29-Jan-2021</tspan></text>
+      <g id="icon" transform="translate(25 1227)">
+        <path id="Path_413" data-name="Path 413" d="M122.932,259.315a1.074,1.074,0,0,0-1.074-1.073h-3.749a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074v-3.749Z" transform="translate(-106.211 -233.202)" fill="#08c585"/>
+        <path id="Path_414" data-name="Path 414" d="M219.567,259.315a1.074,1.074,0,0,0-1.073-1.073h-3.75a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.75a1.074,1.074,0,0,0,1.073-1.074Z" transform="translate(-193.476 -233.202)" fill="#08c585"/>
+        <path id="Path_415" data-name="Path 415" d="M316.2,259.315a1.074,1.074,0,0,0-1.074-1.073h-3.749a1.074,1.074,0,0,0-1.074,1.073v3.749a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074Z" transform="translate(-280.735 -233.202)" fill="#08c585"/>
+        <path id="Path_416" data-name="Path 416" d="M122.932,355.949a1.074,1.074,0,0,0-1.074-1.074h-3.749a1.073,1.073,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.749a1.074,1.074,0,0,0,1.074-1.074v-3.748Z" transform="translate(-106.211 -320.465)" fill="#08c585"/>
+        <path id="Path_417" data-name="Path 417" d="M219.567,355.949a1.073,1.073,0,0,0-1.073-1.074h-3.75a1.073,1.073,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.75a1.074,1.074,0,0,0,1.073-1.074Z" transform="translate(-193.476 -320.465)" fill="#08c585"/>
+        <path id="Path_418" data-name="Path 418" d="M316.2,355.949a1.073,1.073,0,0,0-1.073-1.074h-3.75a1.074,1.074,0,0,0-1.074,1.074V359.7a1.074,1.074,0,0,0,1.074,1.074h3.75A1.074,1.074,0,0,0,316.2,359.7v-3.748Z" transform="translate(-280.735 -320.465)" fill="#08c585"/>
+        <path id="Path_419" data-name="Path 419" d="M47.575,54.163v5.726a4.677,4.677,0,0,1-4.687,4.673H39.931a4.7,4.7,0,0,1-4.715-4.673V54.142H21.89v5.746a4.7,4.7,0,0,1-4.715,4.673H14.218a4.676,4.676,0,0,1-4.687-4.673V54.163a4.262,4.262,0,0,0-4.12,4.24V91.958a4.264,4.264,0,0,0,4.243,4.268h37.8A4.269,4.269,0,0,0,51.7,91.958V58.4A4.262,4.262,0,0,0,47.575,54.163ZM46.2,89.868A1.834,1.834,0,0,1,44.368,91.7H12.657a1.834,1.834,0,0,1-1.834-1.834V72.535A1.834,1.834,0,0,1,12.657,70.7h31.71A1.834,1.834,0,0,1,46.2,72.535V89.868Z" transform="translate(-5.411 -48.892)" fill="#08c585"/>
+        <path id="Path_420" data-name="Path 420" d="M81.157,12.6h2.925a1.607,1.607,0,0,0,1.607-1.606V1.607A1.607,1.607,0,0,0,84.082,0H81.157A1.607,1.607,0,0,0,79.55,1.607v9.387A1.607,1.607,0,0,0,81.157,12.6Z" transform="translate(-72.361 0)" fill="#08c585"/>
+        <path id="Path_421" data-name="Path 421" d="M346.065,12.6h2.925a1.607,1.607,0,0,0,1.607-1.606V1.607A1.607,1.607,0,0,0,348.99,0h-2.925a1.607,1.607,0,0,0-1.607,1.607v9.387A1.607,1.607,0,0,0,346.065,12.6Z" transform="translate(-311.582 0)" fill="#08c585"/>
+      </g>
+      <text id="DATE_:" data-name="DATE :" transform="translate(100 1266)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">DATE :</tspan></text>
+    </g>
+    <g id="fixed_price" data-name="fixed price" transform="translate(45 78)">
+      <g id="Rectangle_395" data-name="Rectangle 395" transform="translate(-6 1197)" fill="#efeef1" stroke="#eae8ec" stroke-width="1">
+        <rect width="1002" height="115" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1001" height="114" rx="9.5" fill="none"/>
+      </g>
+      <text id="_20_Person" data-name="$20/Person" transform="translate(348 1273)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">$20/Person</tspan></text>
+      <text id="Fixed_price_:" data-name="Fixed price :" transform="translate(86 1271)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">FIXED PRICE :</tspan></text>
+    </g>
+    <g id="people" transform="translate(20 -349)">
+      <rect id="Rectangle_394-2" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="N" transform="translate(439 1266)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">N</tspan></text>
+      <text id="L" transform="translate(498 1262)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">L</tspan></text>
+      <text id="MM" transform="translate(548 1262)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">MM</tspan></text>
+      <text id="_2" data-name="2" transform="translate(473 1269)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(521 1268)" fill="#212e3e" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">3</tspan></text>
+      <text id="Number_plate_:" data-name="Number plate :" transform="translate(105 1265)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">NUMBER PLATE :</tspan></text>
+      <g id="license-plate" transform="translate(22 1232.996)">
+        <path id="Path_461" data-name="Path 461" d="M84.315,32H32V61.3H84.315ZM34.093,34.1h2.093v2.093H34.093Zm2.093,25.111H34.093V57.115h2.093Zm4.185-7.324a3.143,3.143,0,0,0,3.139-3.139H45.6a5.231,5.231,0,0,1-10.463,0V44.559a5.231,5.231,0,1,1,10.463,0H43.509a3.139,3.139,0,1,0-6.278,0v4.185A3.143,3.143,0,0,0,40.37,51.884Zm7.324-6.278h6.278V47.7H47.694Zm14.648-1.046a3.119,3.119,0,0,1-.816,2.093,3.114,3.114,0,0,1,.816,2.093v2.093A3.143,3.143,0,0,1,59.2,53.976H53.972V51.884H59.2a1.048,1.048,0,0,0,1.046-1.046V48.745A1.048,1.048,0,0,0,59.2,47.7H56.065V45.606H59.2a1.048,1.048,0,0,0,1.046-1.046V42.467A1.048,1.048,0,0,0,59.2,41.421H53.972V39.328H59.2a3.143,3.143,0,0,1,3.139,3.139Zm10.463,7.324v2.093h-8.37V51.45l5.1-5.1a3.98,3.98,0,0,0,1.173-2.832,2.093,2.093,0,0,0-4.185,0v1.046H64.435V43.513a4.185,4.185,0,0,1,8.37,0,6.055,6.055,0,0,1-1.786,4.312l-4.059,4.058Zm2.093,0h2.093V41.421H74.9V39.328h4.185V51.884h2.093v2.093H74.9Zm7.324,7.324H80.13V57.115h2.093Zm0-23.019H80.13V34.1h2.093Zm0,0" transform="translate(-27.815 -27.815)" fill="#08c585"/>
+        <path id="Path_462" data-name="Path 462" d="M60.685,0H0V37.671H60.686ZM58.593,35.578H2.093V2.1h56.5Zm0,0" fill="#08c585"/>
+      </g>
+    </g>
+    <g id="pickup" transform="translate(27 -222)">
+      <rect id="Rectangle_394-3" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="_03:00_pm" data-name="03:00 pm" transform="translate(381 1267)" fill="#212e3e" font-size="44" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">03:00 pm</tspan></text>
+      <text id="pickup_TIME_:" data-name="pickup TIME :" transform="translate(98 1266)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">PICKUP TIME :</tspan></text>
+      <g id="clock" transform="translate(24 1228)">
+        <path id="Path_412" data-name="Path 412" d="M21.5,0A21.5,21.5,0,1,0,43,21.5,21.524,21.524,0,0,0,21.5,0ZM31.725,32.621a1.791,1.791,0,0,1-2.533,0l-8.958-8.958a1.784,1.784,0,0,1-.525-1.267V10.75a1.792,1.792,0,1,1,3.583,0v10.9l8.433,8.433a1.79,1.79,0,0,1,0,2.533Z" fill="#08c585"/>
+      </g>
+    </g>
+    <g id="stop" transform="translate(22 -475)">
+      <rect id="Rectangle_394-4" data-name="Rectangle 394" width="921" height="3" transform="translate(93 1307)" fill="#eae8ec"/>
+      <text id="Ratings_:" data-name="Ratings :" transform="translate(103 1267)" fill="#a19aab" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.008em"><tspan x="0" y="0">RATINGS :</tspan></text>
+    </g>
+    <g id="star" transform="translate(333.764 736.567)">
+      <path id="Path_460" data-name="Path 460" d="M9.449,60.031l15.141-7.96,15.141,7.96L36.84,43.175,49.18,31.232l-17.02-2.46L24.59,13.433,17.02,28.772,0,31.232,12.34,43.175ZM6.226,33.245l12.708-1.837L24.59,19.947l5.656,11.461,12.708,1.837-9.214,8.917,2.161,12.6L24.59,48.814,13.278,54.761l2.161-12.6Z" transform="translate(-9 6)" fill="#fcb44d"/>
+    </g>
+    <g id="star-2" data-name="star" transform="translate(390.764 734.567)">
+      <path id="Path_460-2" data-name="Path 460" d="M9.449,60.031l15.141-7.96,15.141,7.96L36.84,43.175,49.18,31.232l-17.02-2.46L24.59,13.433,17.02,28.772,0,31.232,12.34,43.175ZM6.226,33.245l12.708-1.837L24.59,19.947l5.656,11.461,12.708,1.837-9.214,8.917,2.161,12.6L24.59,48.814,13.278,54.761l2.161-12.6Z" transform="translate(-9 6)" fill="#fcb44d"/>
+    </g>
+    <g id="star-3" data-name="star" transform="translate(447.764 734.567)">
+      <path id="Path_460-3" data-name="Path 460" d="M9.449,60.031l15.141-7.96,15.141,7.96L36.84,43.175,49.18,31.232l-17.02-2.46L24.59,13.433,17.02,28.772,0,31.232,12.34,43.175ZM6.226,33.245l12.708-1.837L24.59,19.947l5.656,11.461,12.708,1.837-9.214,8.917,2.161,12.6L24.59,48.814,13.278,54.761l2.161-12.6Z" transform="translate(-9 6)" fill="#fcb44d"/>
+    </g>
+    <g id="star-4" data-name="star" transform="translate(504.764 734.567)">
+      <path id="Path_460-4" data-name="Path 460" d="M9.449,60.031l15.141-7.96,15.141,7.96L36.84,43.175,49.18,31.232l-17.02-2.46L24.59,13.433,17.02,28.772,0,31.232,12.34,43.175ZM6.226,33.245l12.708-1.837L24.59,19.947l5.656,11.461,12.708,1.837-9.214,8.917,2.161,12.6L24.59,48.814,13.278,54.761l2.161-12.6Z" transform="translate(-9 6)" fill="#fcb44d"/>
+    </g>
+    <g id="star-5" data-name="star" transform="translate(561.764 734.567)">
+      <path id="Path_460-5" data-name="Path 460" d="M9.449,60.031l15.141-7.96,15.141,7.96L36.84,43.175,49.18,31.232l-17.02-2.46L24.59,13.433,17.02,28.772,0,31.232,12.34,43.175ZM6.226,33.245l12.708-1.837L24.59,19.947l5.656,11.461,12.708,1.837-9.214,8.917,2.161,12.6L24.59,48.814,13.278,54.761l2.161-12.6Z" transform="translate(-9 6)" fill="#fcb44d"/>
+    </g>
+    <path id="star_1_" data-name="star (1)" d="M31,9.314l7.571,15.34L55.5,27.114,43.25,39.055l2.892,16.861L31,47.955,15.858,55.916,18.75,39.055,6.5,27.114l16.929-2.46Z" transform="translate(318.5 744.686)" fill="#fcb44d"/>
+    <path id="star_1_2" data-name="star (1)" d="M32.049,9.314l7.895,16L57.6,27.877,44.824,40.329,47.84,57.912l-15.79-8.3-15.79,8.3,3.016-17.583L6.5,27.877l17.654-2.565Z" transform="translate(37.5 744.686)" fill="#08c585"/>
+    <path id="star_1_3" data-name="star (1)" d="M31,9.314l7.571,15.34L55.5,27.114,43.25,39.055l2.892,16.861L31,47.955,15.858,55.916,18.75,39.055,6.5,27.114l16.929-2.46Z" transform="translate(375.5 744.686)" fill="#fcb44d"/>
+    <path id="star_1_4" data-name="star (1)" d="M31,9.314l7.571,15.34L55.5,27.114,43.25,39.055l2.892,16.861L31,47.955,15.858,55.916,18.75,39.055,6.5,27.114l16.929-2.46Z" transform="translate(432.5 744.686)" fill="#fcb44d"/>
+    <path id="star_1_5" data-name="star (1)" d="M31,9.314l7.571,15.34L55.5,27.114,43.25,39.055l2.892,16.861L31,47.955,15.858,55.916,18.75,39.055,6.5,27.114l16.929-2.46Z" transform="translate(489.5 744.686)" fill="#fcb44d"/>
+    <g id="dollar" transform="translate(50.945 1303.945)">
+      <path id="Path_463" data-name="Path 463" d="M51.213,8.787A30,30,0,0,0,8.787,51.213,30,30,0,0,0,51.213,8.787ZM30,28.125a8.437,8.437,0,0,1,2.306,16.552.589.589,0,0,0-.431.565v1.58a1.91,1.91,0,0,1-1.784,1.926,1.875,1.875,0,0,1-1.966-1.873V45.241a.587.587,0,0,0-.43-.564,8.451,8.451,0,0,1-6.133-8.062,1.906,1.906,0,0,1,1.82-1.927,1.875,1.875,0,0,1,1.93,1.874A4.688,4.688,0,1,0,30,31.875a8.437,8.437,0,0,1-2.306-16.552.589.589,0,0,0,.431-.565v-1.58a1.91,1.91,0,0,1,1.784-1.926,1.875,1.875,0,0,1,1.966,1.873v1.634a.587.587,0,0,0,.43.564,8.451,8.451,0,0,1,6.133,8.062,1.906,1.906,0,0,1-1.82,1.927,1.875,1.875,0,0,1-1.93-1.874A4.688,4.688,0,1,0,30,28.125Z" fill="#08c585"/>
+    </g>
+  </g>
+</svg>
