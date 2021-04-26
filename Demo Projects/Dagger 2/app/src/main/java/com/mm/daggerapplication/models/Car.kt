@@ -4,12 +4,12 @@ import com.mm.daggerapplication.daggerComponents.Engine
 import javax.inject.Inject
 
 class Car {
+    @Inject
     lateinit var wheels: Wheels
     lateinit var engine: Engine
 
     @Inject
-    constructor(wheels: Wheels, engine: Engine) {
-        this.wheels = wheels
+    constructor(engine: Engine) {
         this.engine = engine
     }
 
@@ -19,6 +19,7 @@ class Car {
     }
 
     fun drive() {
+        println("wheels: $wheels")
         engine.start()
         println("Driving...")
     }
