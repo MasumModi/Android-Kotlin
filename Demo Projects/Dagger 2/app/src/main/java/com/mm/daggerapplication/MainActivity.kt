@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.mm.daggerapplication.daggerComponents.CarComponent
 import com.mm.daggerapplication.daggerComponents.DaggerCarComponent
+import com.mm.daggerapplication.daggerModule.PetrolEngineModule
 import com.mm.daggerapplication.models.Car
 import javax.inject.Inject
 
@@ -16,7 +17,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val carComponent = DaggerCarComponent.create()
+        val carComponent = DaggerCarComponent.builder()
+            .petrolEngineModule(PetrolEngineModule(100))
+            .build()
+
         carComponent.inject(this)
 
         car.drive()
