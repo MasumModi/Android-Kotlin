@@ -8,14 +8,8 @@ import dagger.Provides
 @Module
 class PetrolEngineModule {
 
-    var powerCapacity: Int
-
-    constructor(powerCapacity: Int) {
-        this.powerCapacity = powerCapacity
-    }
-
     @Provides
-    fun providePetrolEngine(): Engine {
-        return PetrolEngine(powerCapacity)
+    fun providePetrolEngine(powerCapacity: Int, engineCapacity: Int): Engine {
+        return PetrolEngine(powerCapacity, engineCapacity)
     }
 }
