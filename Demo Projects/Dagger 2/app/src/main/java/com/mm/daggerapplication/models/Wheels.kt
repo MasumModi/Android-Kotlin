@@ -1,11 +1,12 @@
 package com.mm.daggerapplication.models
 
-import javax.inject.Inject
-
 class Wheels {
 
-    @Inject
-    constructor(){
+    lateinit var rims: Rims
+    lateinit var tires: Tires
 
+    constructor(rims: Rims, tires: Tires) {
+        this.rims = rims
+        this.tires = tires
     }
 }
