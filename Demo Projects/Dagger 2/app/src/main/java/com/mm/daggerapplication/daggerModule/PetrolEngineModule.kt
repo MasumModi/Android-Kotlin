@@ -9,7 +9,7 @@ import dagger.Provides
 class PetrolEngineModule {
 
     @Provides
-    fun providePetrolEngine(powerCapacity: Int, engineCapacity: Int): Engine {
-        return PetrolEngine(powerCapacity, engineCapacity)
+    fun providePetrolEngine(petrolEngine: PetrolEngine): Engine {
+        return petrolEngine
     }
 }
