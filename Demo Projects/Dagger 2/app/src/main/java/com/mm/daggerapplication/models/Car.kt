@@ -7,10 +7,12 @@ class Car {
     @Inject
     lateinit var wheels: Wheels
     lateinit var engine: Engine
+    lateinit var driver: Driver
 
     @Inject
-    constructor(engine: Engine) {
+    constructor(engine: Engine, driver: Driver) {
         this.engine = engine
+        this.driver = driver
     }
 
     @Inject
@@ -19,8 +21,9 @@ class Car {
     }
 
     fun drive() {
-        println("wheels: $wheels")
-        engine.start()
-        println("Driving...")
+        println("Driver: $driver")
+        //println("wheels: $wheels")
+        //engine.start()
+        //println("Driving...")
     }
 }
