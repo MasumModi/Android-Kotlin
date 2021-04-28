@@ -21,9 +21,9 @@ class Car {
     }
 
     fun drive() {
-        println("Driver: $driver")
+        //println("Driver: $driver")
         //println("wheels: $wheels")
-        //engine.start()
+        engine.start()
         //println("Driving...")
     }
 }
