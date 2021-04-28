@@ -9,6 +9,7 @@ import com.example.mvvmsample.R
 import com.example.mvvmsample.data.db.AppDatabase
 import com.example.mvvmsample.data.db.entities.User
 import com.example.mvvmsample.data.network.MyApi
+import com.example.mvvmsample.data.network.NetworkConnectionInterceptor
 import com.example.mvvmsample.data.repositories.UserRepository
 import com.example.mvvmsample.databinding.ActivityLoginBinding
 import com.example.mvvmsample.ui.home.HomeActivity
@@ -20,7 +21,9 @@ import kotlinx.android.synthetic.main.activity_login.*
 class LoginActivity : AppCompatActivity(), AuthListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val api = MyApi()
+
+        val networkConnectionInterceptor = NetworkConnectionInterceptor(this)
+        val api = MyApi(networkConnectionInterceptor)
         val db = AppDatabase(this)
         val repository = UserRepository(api,db)
 
