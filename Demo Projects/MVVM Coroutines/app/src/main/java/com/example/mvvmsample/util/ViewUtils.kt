@@ -1,6 +1,7 @@
 package com.example.mvvmsample.util
 
 import android.content.Context
+import android.util.Log
 import android.view.View
 import android.widget.ProgressBar
 import android.widget.Toast
@@ -16,6 +17,10 @@ fun ProgressBar.show() {
 
 fun ProgressBar.hide() {
     visibility = View.GONE
+}
+
+fun Context.logMessage(message: String) {
+    Log.d("Debug Log: ", message)
 }
 
 fun View.snackbar(message: String) {

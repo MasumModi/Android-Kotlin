@@ -2,6 +2,7 @@ package com.example.mvvmsample.ui.auth
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
@@ -11,6 +12,7 @@ import com.example.mvvmsample.data.repositories.UserRepository
 import com.example.mvvmsample.databinding.ActivityLoginBinding
 import com.example.mvvmsample.ui.home.HomeActivity
 import com.example.mvvmsample.util.hide
+import com.example.mvvmsample.util.logMessage
 import com.example.mvvmsample.util.show
 import com.example.mvvmsample.util.snackbar
 import org.kodein.di.KodeinAware
@@ -20,13 +22,11 @@ import org.kodein.di.generic.instance
 class LoginActivity : AppCompatActivity(), AuthListener, KodeinAware {
 
     override val kodein by kodein()
-
     private val repository: UserRepository by instance()
     private lateinit var binding: ActivityLoginBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = DataBindingUtil.setContentView(this, R.layout.activity_login)
 
         val viewModel = AuthViewModel(repository)
