@@ -1,7 +1,8 @@
-package com.testdrivendevelopment
+package com.testdrivendevelopment.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.testdrivendevelopment.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
