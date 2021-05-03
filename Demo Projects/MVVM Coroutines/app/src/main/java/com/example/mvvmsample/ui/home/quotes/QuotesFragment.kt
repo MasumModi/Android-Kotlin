@@ -9,7 +9,6 @@ import androidx.lifecycle.Observer
 import com.example.mvvmsample.R
 import com.example.mvvmsample.data.repositories.QuotesRepository
 import com.example.mvvmsample.util.Coroutines
-import com.example.mvvmsample.util.toast
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.kodein
 import org.kodein.di.generic.instance
@@ -31,13 +30,18 @@ class QuotesFragment : Fragment(), KodeinAware {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
         viewModel = QuotesViewModel(repository)
+        bindUI()
+    }
 
-        Coroutines.main {
-            val quotes = viewModel.quotes.await()
-            quotes.observe(viewLifecycleOwner, Observer {
-                context?.toast(it.size.toString())
-            })
-        }
+    private fun bindUI() = Coroutines.main {
+        viewModel.quotes.await().observe(viewLifecycleOwner, Observer {
+            initRecyclerView()
+        })
+    }
+
+    private fun initRecyclerView() {
+
+
     }
 
 }
