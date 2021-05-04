@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.rideshare.rider.ui.home.profile.ProfileViewModel" />
+            type="com.bookmyride.rider.ui.home.profile.ProfileViewModel" />
     </data>
 
     <FrameLayout

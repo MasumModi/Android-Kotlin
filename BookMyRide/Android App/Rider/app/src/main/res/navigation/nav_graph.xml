@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/menuHome"
-        android:name="com.rideshare.rider.ui.home.profile.ProfileFragment"
+        android:name="com.bookmyride.rider.ui.home.profile.ProfileFragment"
         android:label="Profile"
         tools:layout="@layout/profile_fragment" />
     <fragment
         android:id="@+id/menuQuotes"
-        android:name="com.rideshare.rider.ui.home.quotes.QuotesFragment"
+        android:name="com.bookmyride.rider.ui.home.quotes.QuotesFragment"
         android:label="Quotes"
         tools:layout="@layout/quotes_fragment" />
 </navigation>

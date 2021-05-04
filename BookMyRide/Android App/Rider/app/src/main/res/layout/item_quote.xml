@@ -5,7 +5,7 @@
 
         <variable
             name="quote"
-            type="com.rideshare.rider.data.db.entities.Quote" />
+            type="com.bookmyride.rider.data.db.entities.Quote" />
     </data>
 
     <com.google.android.material.card.MaterialCardView
