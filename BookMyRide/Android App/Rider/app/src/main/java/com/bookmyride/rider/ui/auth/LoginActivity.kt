@@ -10,6 +10,7 @@ import com.bookmyride.rider.data.db.entities.User
 import com.bookmyride.rider.data.repositories.UserRepository
 import com.bookmyride.rider.databinding.ActivityLoginBinding
 import com.bookmyride.rider.ui.home.HomeActivity
+import com.bookmyride.rider.util.logMessage
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.kodein
 import org.kodein.di.generic.instance

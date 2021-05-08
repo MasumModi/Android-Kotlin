@@ -42,7 +42,7 @@ interface MyApi {
 
             return Retrofit.Builder()
                 .client(oKHTTPClient)
-                .baseUrl("https://api.simplifiedcoding.in/course-apis/mvvm/")
+                .baseUrl("http://devasysolutions.ca/bookmyride/api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build()
                 .create(MyApi::class.java)
